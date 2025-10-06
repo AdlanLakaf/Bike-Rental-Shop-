@@ -101,3 +101,4 @@ echo -e "\n1. Rent a bike\n2. Return a bike\n3. Exit"
 ./bike-shop.sh
 __vsc_prompt_cmd_original
 ./bike-shop.sh
+__vsc_prompt_cmd_original
