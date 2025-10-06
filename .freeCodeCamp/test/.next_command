@@ -146,3 +146,4 @@ $(echo $CUSTOMER_NAME | sed -r 's/^ *| *$//g')
 SELECT bike-shop.sh FROM bikes
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
