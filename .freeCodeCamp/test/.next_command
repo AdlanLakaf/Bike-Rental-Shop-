@@ -77,3 +77,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bike-shop.sh
 chmod +x bike-shop.sh
 ./bike-shop.sh
+echo -e "\n1. Rent a bike\n2. Return a bike\n3. Exit"
