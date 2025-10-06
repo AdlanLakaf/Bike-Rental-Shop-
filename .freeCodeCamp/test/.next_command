@@ -138,3 +138,6 @@ echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
 __vsc_prompt_cmd_original
 $(echo $CUSTOMER_NAME | sed -r 's/^ *| *$//g')
 ./bike-shop.sh
+./bike-shop.sh
+1
+./bike-shop.sh
